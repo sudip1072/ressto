@@ -72,7 +72,6 @@ class MenuProvider extends Component {
 
     // get max price
     let maxPrice = Math.max(...storeMenus.map(item => item.price));
-    console.log(maxPrice);
 
     // set the state of all variables as below where  filterProducts: storeMenus
     //call back the addTotal

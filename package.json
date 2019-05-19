@@ -10,7 +10,8 @@
     "react-router-dom": "^5.0.0",
     "react-icons": "^3.7.0",
     "styled-components": "^4.2.0",
-    "contentful": "^7.6.0"
+    "contentful": "^7.6.0",
+    "react-paypal-express-checkout": "^1.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
